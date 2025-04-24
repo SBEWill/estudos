@@ -1,13 +1,4 @@
-//O que esse código faz:
-Lê um número N, que indica quantos números serão lidos a seguir.
 
-Para cada número:
-
-Conta quantos estão no intervalo [10, 20] (in)
-
-E quantos estão fora desse intervalo (out)
-
-No final, exibe quantos estavam "in" e quantos estavam "out".
 
 package estudando;
 
